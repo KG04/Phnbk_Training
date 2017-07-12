@@ -6,3 +6,6 @@ C:\Users\Kritika-atl\Documents\Visual Studio 2015\Projects\Phonebook.Console\Pho
 C:\Users\Kritika-atl\Documents\Visual Studio 2015\Projects\Phonebook.Console\Phonebook.Console\bin\Debug\Phonebook.Library.pdb
 C:\Users\Kritika-atl\Documents\Visual Studio 2015\Projects\Phonebook.Console\Phonebook.Console\obj\Debug\Phonebook.Console.exe
 C:\Users\Kritika-atl\Documents\Visual Studio 2015\Projects\Phonebook.Console\Phonebook.Console\obj\Debug\Phonebook.Console.pdb
+C:\Git\Training\Phnbk_Training\Phonebook.Console\bin\Debug\Phonebook.Console.exe.config
+C:\Git\Training\Phnbk_Training\Phonebook.Console\obj\Debug\Phonebook.Console.exe
+C:\Git\Training\Phnbk_Training\Phonebook.Console\obj\Debug\Phonebook.Console.pdb
