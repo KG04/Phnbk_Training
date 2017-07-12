@@ -1,0 +1,8 @@
+c:\users\kritika-atl\documents\visual studio 2015\Projects\Phonebook.Console\Phonebook.Console\bin\Debug\Phonebook.Console.exe.config
+C:\Users\Kritika-atl\Documents\Visual Studio 2015\Projects\Phonebook.Console\Phonebook.Console\obj\Debug\Phonebook.Console.csprojResolveAssemblyReference.cache
+C:\Users\Kritika-atl\Documents\Visual Studio 2015\Projects\Phonebook.Console\Phonebook.Console\bin\Debug\Phonebook.Console.exe
+C:\Users\Kritika-atl\Documents\Visual Studio 2015\Projects\Phonebook.Console\Phonebook.Console\bin\Debug\Phonebook.Console.pdb
+C:\Users\Kritika-atl\Documents\Visual Studio 2015\Projects\Phonebook.Console\Phonebook.Console\bin\Debug\Phonebook.Library.dll
+C:\Users\Kritika-atl\Documents\Visual Studio 2015\Projects\Phonebook.Console\Phonebook.Console\bin\Debug\Phonebook.Library.pdb
+C:\Users\Kritika-atl\Documents\Visual Studio 2015\Projects\Phonebook.Console\Phonebook.Console\obj\Debug\Phonebook.Console.exe
+C:\Users\Kritika-atl\Documents\Visual Studio 2015\Projects\Phonebook.Console\Phonebook.Console\obj\Debug\Phonebook.Console.pdb

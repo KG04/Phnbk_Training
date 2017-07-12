@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phonebook.Console", "Phonebook.Console\Phonebook.Console.csproj", "{29C866F7-4FEB-49D4-A443-009E3D4A27AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phonebook.Library", "Phonebook.Library\Phonebook.Library.csproj", "{0580A36C-4657-4C1D-A566-85AD99E77EAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "phonebook.asp", "phonebook.asp\phonebook.asp.csproj", "{B556D65C-496A-476B-A14C-4F2B77DFA13C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29C866F7-4FEB-49D4-A443-009E3D4A27AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29C866F7-4FEB-49D4-A443-009E3D4A27AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29C866F7-4FEB-49D4-A443-009E3D4A27AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29C866F7-4FEB-49D4-A443-009E3D4A27AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0580A36C-4657-4C1D-A566-85AD99E77EAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0580A36C-4657-4C1D-A566-85AD99E77EAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0580A36C-4657-4C1D-A566-85AD99E77EAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0580A36C-4657-4C1D-A566-85AD99E77EAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B556D65C-496A-476B-A14C-4F2B77DFA13C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B556D65C-496A-476B-A14C-4F2B77DFA13C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B556D65C-496A-476B-A14C-4F2B77DFA13C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B556D65C-496A-476B-A14C-4F2B77DFA13C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
